@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_customAdbPublicKeyConfirmationComponent">com.kosherapps.usbguard/com.kosherapps.usbguard.Blocked</string>
+    <string name="config_customAdbPublicKeyConfirmationSecondaryUserComponent">com.kosherapps.usbguard/com.kosherapps.usbguard.Blocked</string>
+</resources>

@@ -1,0 +1,14 @@
+version: 2.9.3
+apkFileName: usbguard.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: '30'
+  targetSdkVersion: '30'
+versionInfo:
+  versionCode: '15'
+  versionName: '15.0'
+doNotCompress:
+- resources.arsc

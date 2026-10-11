@@ -1,0 +1,11 @@
+*.dex
+classes/
+
+/*.apk
+/*.zip
+popup-app/classes/
+popup-app/classes.dex
+
+build/
+
+*.idsig
